@@ -3,7 +3,7 @@ export const userData = {
   devUsername: "Xaico-RANA",
   github: 'https://github.com/Xaico-RANA',
   facebook: 'https://www.facebook.com/XAICO-RANS/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  linkedIn: 'https://bd.linkedin.com/in/mohammad-rana-b007b8325',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
